@@ -463,3 +463,8 @@ img{
     right: 10%;
   }
 }
+@media screen and (max-width: 1300px) {
+  .home__img{
+    right: 10%;
+  }
+}
